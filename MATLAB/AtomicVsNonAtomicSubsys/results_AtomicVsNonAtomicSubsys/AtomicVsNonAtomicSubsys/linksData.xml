@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<linksdata rev="1.4">
+  <matlab version="9.8" path="C:\Program Files\Polyspace\R2020a" codegen="Embedded Coder"/>
+  <model name="AtomicVsNonAtomicSubsys" source="traceInfo" path="C:\Users\ashok\MATLAB\Projects\AtomicVsNonAtomicSubsys\AtomicVsNonAtomicSubsys.slx" version="1.3">
+    <files>
+      <filename>C:\Users\ashok\MATLAB\Projects\AtomicVsNonAtomicSubsys\AtomicVsNonAtomicSubsys_ert_rtw\AtomicVsNonAtomicSubsys.c</filename>
+    </files>
+    <link>
+      <blockname>Add</blockname>
+      <rtwname>&lt;Root&gt;/Add</rtwname>
+      <pathname>AtomicVsNonAtomicSubsys/Add</pathname>
+      <sid>AtomicVsNonAtomicSubsys:2</sid>
+    </link>
+    <link>
+      <blockname>Add1</blockname>
+      <rtwname>&lt;Root&gt;/Add1</rtwname>
+      <pathname>AtomicVsNonAtomicSubsys/Add1</pathname>
+      <sid>AtomicVsNonAtomicSubsys:4</sid>
+    </link>
+    <link>
+      <blockname>Atomic Subsystem</blockname>
+      <rtwname>&lt;Root&gt;/Atomic Subsystem</rtwname>
+      <pathname>AtomicVsNonAtomicSubsys/Atomic Subsystem</pathname>
+      <sid>AtomicVsNonAtomicSubsys:27</sid>
+    </link>
+    <link>
+      <blockname>Constant</blockname>
+      <rtwname>&lt;Root&gt;/Constant</rtwname>
+      <pathname>AtomicVsNonAtomicSubsys/Constant</pathname>
+      <sid>AtomicVsNonAtomicSubsys:1</sid>
+    </link>
+    <link>
+      <blockname>Constant1</blockname>
+      <rtwname>&lt;Root&gt;/Constant1</rtwname>
+      <pathname>AtomicVsNonAtomicSubsys/Constant1</pathname>
+      <sid>AtomicVsNonAtomicSubsys:15</sid>
+    </link>
+    <link>
+      <blockname>Scope</blockname>
+      <rtwname>&lt;Root&gt;/Scope</rtwname>
+      <pathname>AtomicVsNonAtomicSubsys/Scope</pathname>
+      <sid>AtomicVsNonAtomicSubsys:12</sid>
+    </link>
+    <link>
+      <blockname>Scope1</blockname>
+      <rtwname>&lt;Root&gt;/Scope1</rtwname>
+      <pathname>AtomicVsNonAtomicSubsys/Scope1</pathname>
+      <sid>AtomicVsNonAtomicSubsys:16</sid>
+    </link>
+    <link>
+      <blockname>Unit Delay</blockname>
+      <rtwname>&lt;Root&gt;/Unit Delay</rtwname>
+      <pathname>AtomicVsNonAtomicSubsys/Unit Delay</pathname>
+      <sid>AtomicVsNonAtomicSubsys:3</sid>
+    </link>
+    <link>
+      <blockname>Unit Delay1</blockname>
+      <rtwname>&lt;Root&gt;/Unit Delay1</rtwname>
+      <pathname>AtomicVsNonAtomicSubsys/Unit Delay1</pathname>
+      <sid>AtomicVsNonAtomicSubsys:6</sid>
+    </link>
+    <link>
+      <blockname>In1</blockname>
+      <rtwname>&lt;S1&gt;/In1</rtwname>
+      <pathname>AtomicVsNonAtomicSubsys/Atomic Subsystem/In1</pathname>
+      <sid>AtomicVsNonAtomicSubsys:28</sid>
+    </link>
+    <link>
+      <blockname>Add2</blockname>
+      <rtwname>&lt;S1&gt;/Add2</rtwname>
+      <pathname>AtomicVsNonAtomicSubsys/Atomic Subsystem/Add2</pathname>
+      <sid>AtomicVsNonAtomicSubsys:13</sid>
+    </link>
+    <link>
+      <blockname>Add3</blockname>
+      <rtwname>&lt;S1&gt;/Add3</rtwname>
+      <pathname>AtomicVsNonAtomicSubsys/Atomic Subsystem/Add3</pathname>
+      <sid>AtomicVsNonAtomicSubsys:14</sid>
+    </link>
+    <link>
+      <blockname>Unit Delay2</blockname>
+      <rtwname>&lt;S1&gt;/Unit Delay2</rtwname>
+      <pathname>AtomicVsNonAtomicSubsys/Atomic Subsystem/Unit Delay2</pathname>
+      <sid>AtomicVsNonAtomicSubsys:17</sid>
+    </link>
+    <link>
+      <blockname>Unit Delay3</blockname>
+      <rtwname>&lt;S1&gt;/Unit Delay3</rtwname>
+      <pathname>AtomicVsNonAtomicSubsys/Atomic Subsystem/Unit Delay3</pathname>
+      <sid>AtomicVsNonAtomicSubsys:18</sid>
+    </link>
+    <link>
+      <blockname>Out1</blockname>
+      <rtwname>&lt;S1&gt;/Out1</rtwname>
+      <pathname>AtomicVsNonAtomicSubsys/Atomic Subsystem/Out1</pathname>
+      <sid>AtomicVsNonAtomicSubsys:29</sid>
+    </link>
+  </model>
+</linksdata>

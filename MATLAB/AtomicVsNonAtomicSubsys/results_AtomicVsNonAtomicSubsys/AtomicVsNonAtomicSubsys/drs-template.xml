@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--EDRS Version 2.0-->
+<global>
+   <file name="C:\\Users\\ashok\\MATLAB\\Projects\\AtomicVsNonAtomicSubsys\\AtomicVsNonAtomicSubsys_ert_rtw\\AtomicVsNonAtomicSubsys.c" comment="">
+      <pointer name="AtomicVsNonAtomicSubsys_M" comment="" line="21" attributes="const" complete_type="struct tag_RTM_AtomicVsNonAtomicSubs_T *" init_mode="MAIN_GENERATOR" init_modes_allowed="11" initialize_pointer="Not NULL" number_allocated="max" init_pointed="MAIN_GENERATOR"/>
+      <function name="AtomicVsNonAtomicSubsys_initialize" comment="" line="31" main_generator_called="MAIN_GENERATOR" attributes="unused"/>
+      <function name="AtomicVsNonAtomicSubsys_step" comment="" line="25" main_generator_called="MAIN_GENERATOR" attributes="unused"/>
+      <function name="AtomicVsNonAtomicSubsys_terminate" comment="" line="37" main_generator_called="MAIN_GENERATOR" attributes="unused"/>
+   </file>
+</global>

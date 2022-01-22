@@ -1,0 +1,6 @@
+-IC:\Users\ashok\MATLAB\Projects\CodeGen
+-IC:\Users\ashok\MATLAB\Projects\CodeGen\CodeGen_grt_rtw
+-I"C:\Program Files\Polyspace\R2020a\extern\include"
+-I"C:\Program Files\Polyspace\R2020a\simulink\include"
+-I"C:\Program Files\Polyspace\R2020a\rtw\c\src"
+-I"C:\Program Files\Polyspace\R2020a\rtw\c\src\ext_mode\common"
